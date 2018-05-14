@@ -72,3 +72,68 @@ When multipliying
 - write letters in alphabetical order
 - write numbers before letters
 ====
+
+=== Example 2
+
+Simplify
+
+. stem:[6 XX y]
+. stem:[5 XX 2p]
+. stem:[c XX b]
+. stem:[t :- 5]
+
+====
+.Answers
+
+. stem:[6y]
+. stem:[10p]
+. stem:[cb]
+. stem:[t/5]
+
+====
+
+=== Questions 2
+
+. Simplify
+.. stem:[3 xx m]
+.. stem:[c xx 40]
+.. stem:[4t xx 2]
+.. stem:[d xx c]
+.. stem:[h :- 3]
+.. stem:[a :- b]
+
+. Exam Style Question
+.. Simplify stem:[f + f + f - f]
+.. Simplify stem:[2m xx 3]
+.. Simplify stem:[3a + 3h + a + 3h]
+
+=== Key Point 3
+
+You write an algebraic expression by using letters to stand for numbers. The letter is called a *variable* because its value can change or *vary*.
+
+=== Questions 3
+
+. Write an expression for these.
+.. 6 more than stem:[x]
+.. 7 less than stem:[x]
+.. 12 multiplied by stem:[y]
+.. 3 lots of stem:[m]
+.. stem:[y] divided by 2
+.. d halved
+
+. *Reasoning* +
+  Avinash is stem:[y] years old.
+.. His brother is 2 years older. Write an expression in _y_ for Avinash's brother's age.
+.. His grandmother is 5 times as old as Avinash. Write an expression in _y_ for Avinash's grandmother's age.
+.. His cousin is 3 years older. Write an expression in _y_ for Avinash's cousin's age.
+.. Write and simplify an expression for the combined ages of all four.
+
+. Each bag holds _n_ sweets. Write an expression for the number of sweets in +
+  image:2-1-sweets.svg[bag of sweets]
+.. 2 bags
+.. 4 bags
+.. 10 bags
+.. stem:[x] bags
+
+. Write an expression for the perimeter stem:[P] o fhte rectangle. +
+  image:2-1-rectangle.svg[b by h rectangle]
