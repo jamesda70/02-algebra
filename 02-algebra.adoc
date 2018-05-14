@@ -13,7 +13,7 @@ David James
 - Use correct algebraic notation
 - Write and simplify expressions
 
-=== Key Point
+=== Key Point 1
 
 A *term* is a number, a letter, or a number and a letter multiplied together.
 
@@ -29,7 +29,7 @@ A *term* is a number, a letter, or a number and a letter multiplied together.
 |3x|7y|2x^2^|These are not '`like terms`' as the letters are different or the powers are different.
 |===
 
-=== Example
+=== Example 1
 .Simplify by collecting like terms:
 ====
 stem:[2a + 3 + a + 4]:: stem:[ = 3a + 7]
@@ -39,7 +39,7 @@ stem:[2a + 3 + a + 4]:: stem:[ = 3a + 7]
 stem:[2x^2 - 2x + 7x^2 + 4x]:: stem:[ = 9x^2 + 2x]
 ====
 
-=== Questions
+=== Questions 1
 
 . Simplify by collecting like terms
 .. stem:[2y + 4 + 7y + 8]
@@ -57,7 +57,7 @@ stem:[2x^2 - 2x + 7x^2 + 4x]:: stem:[ = 9x^2 + 2x]
 .. Add these terms together, moving clockwise round the set. +
 .. Now add the terms together moving __anti__clockwise. Do you get the same result? Does it matter what order you add them in?
 
-=== Key Point
+=== Key Point 2
 ====
 Terms can be simplified when multiplying or dividing, even when they are not like terms.
 
