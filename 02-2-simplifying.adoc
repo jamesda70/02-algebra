@@ -1,0 +1,128 @@
+= Algebra
+
+== Simplifying Expressions
+
+=== Objectives
+
+- Use the index laws
+- Multiply and divide expressions
+
+=== Questions 1
+
+. Copy and complete
+.. stem:[3 xx 3 = 3^n]
+.. stem:[x xx x = x^n]
+.. stem:[4 xx 4 xx 4 = 4^n]
+.. stem:[y xx y xx y = y^n]
+
+. Copy and complete
+.. stem:[2^4 xx 2^2 = 2^n]
+.. stem:[x^4 xx x^2 = x^n]
+.. stem:[y^6 xx y^4 = y^n]
+
+. Write two terms that multiply together to give these answers
+.. stem:[_ xx _ = y^2]
+.. stem:[x^3]
+.. stem:[x^7]
+.. *Discussion* +
+   Is there more than one answer to part *c*?
+   
+=== Key Point 1
+
+To multiply powers of the same letter, add the indices.
+
+=== Questions 2
+
+. Copy and complete
+.. stem:[5^7 -: 5^4 = 5^?]
+.. stem:[y^7 -: y^4 = y^?]
+.. stem:[9^8 -: 9^3 = 9^?]
+.. stem:[x^8 -: x^3 = x^?]
+
+. Simplify
+.. stem:[a^6/a^2 = a^6 -: a^2 = _]
+.. stem:[z^5/z^3]
+.. stem:[x^4/x]
+.. stem:[g^(10)/g^5]
+
+=== Key Point 2
+
+To divide powers of the same letter subtract the indices.
+
+=== Example 1
+
+Simplify stem:[2a xx 3b]
+
+****
+.Worked Solution
+
+Multiply the numbers together: stem:[2 xx 3 = 6]
+Multiply the letter together: stem:[a xx b = ab]
+Bring everything back together: stem:[2a xx 3b = 6ab]
+****
+
+=== Questions 3
+
+. Simplify
+.. stem:[3a xx 4b]
+.. stem:[2r xx 7s]
+.. stem:[6a xx 3b xx 2c]
+.. stem:[9x xx 2y xx z]
+.. stem:[-6m xx 7n]
+.. stem:[a xx 4a]
+.. stem:[8s xx 3r xx 2s]
+.. stem:[4a xx -2a xx 2b]
+
+. *Reasoning* +
+   Dave and Alesha work out the answer to stem:[2a xx 4b xx 3c] +
+   Dave's answer is: stem:[24abc] +
+   Alesha's answer is: stem:[cba24] +
+   Who wrote the better answer? +
+   *Discussion* What did the other student do wrong?
+   
+. Find the product of each pair of expressions connected by the line +
+  image:02-2-expression-grid.svg[expression grid]
+  
+=== Key Point 3
+
+To divide algebraic terms divide the numbers first and then the letters.
+
+=== Questions 4
+
+Simplify
+. stem:[9b/3 = _/_ xx b = _ xx b]
+. stem:[-40a/10]
+. stem:[27z/13]
+. stem:[2m/4 = 2/4 xx m = _/_ xx m = m/_]
+. stem:[10p/30]
+. stem:[-8e/4]
+. stem:[12t/16 = 16/12 xx t = _/_ xx t = _t/_]
+. stem:[6f/9]
+. stem:[-6d/-12]
+
+== Key Point 4
+
+stem:[1/2x = x/2] +
+These fractions both mean '`half of stem:[x]`'.
+
+=== Questions 5
+
+. Lyn says stem:[x/x = 0]. Jessie says stem:[x/x = 1]. Who is correct?
+
+. Simplify
+.. stem:[3a^2/a = 3 xx a^2/a = 3 xx _ = 
+.. stem:[8c^4/2c^2]
+.. stem:[5x/20x]
+.. stem:[-10z^2/2z]
+.. stem:[6p^2/-36p]
+.. stem:[-15m^2/-20m]
+.. *Discussion* Why is there no '`stem:[x]`' in the answer to part *c*?
+
+. *Reasoning* +
+  Insert the missing term in each question. +
+  Choose from: stem:[2x], stem:[x^2], stem:[x]
+.. stem:[2x/x = __]
+.. stem:[__/x = 2]
+.. stem:[6x^2y/30__ = y/5]
+.. stem:[16x^2/__ = 8x]
+.. stem:[3x^3y/3xy = __]
